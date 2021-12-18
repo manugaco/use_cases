@@ -9,6 +9,10 @@ The goal of this repository is to create jupyter notebooks of user cases of busi
 - Customer Lifetime Value Prediction:
   - Statistical Learning approach to measure the averaged profit of a given customer (BG/NBD Gamma-Gamma).
 
+- Sales prediction:
+  - Statistical Learning approach to predict future sales(ARIMA).
+  - Deep Learning approach to predict future sales (Prophet).
+
 - Clients Churn Rate Prediction:
   - Supervised Machine Learning approach to predict the probability of churn of each client (Logistic regression). 
 
