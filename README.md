@@ -4,7 +4,7 @@ The goal of this repository is to create jupyter notebooks of user cases of busi
 
 - Clients Segmentation:
   - Unsupervised Machine Learning approach to perform clients segmentation (Hierarquical clustering).
-  - Recency Frequency and Monetary (RFM) clients segmentation (k-means clustering).
+  - Unsupervised Machine Learning approach to perform (RFM) clients segmentation (k-means clustering).
 
 - Customer Lifetime Value Prediction:
   - Statistical Learning approach to measure the averaged profit of a given customer (BG/NBD Gamma-Gamma).
@@ -21,6 +21,4 @@ The goal of this repository is to create jupyter notebooks of user cases of busi
   - Supervised Statistical Learning approach to classify tweets sentiment (Naïve Bayes).
 
 - Topic detection:
-  - Unsupervised Statistical Learning approach (Latent Dirichlet Allocation)
-
-
+  - Unsupervised Statistical Learning approach (Latent Dirichlet Allocation).
