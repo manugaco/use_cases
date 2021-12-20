@@ -17,7 +17,7 @@ The goal of this repository is to create jupyter notebooks of user cases of busi
 
 ### Fraud Detection:
   - Supervised Machine Learning approach to detect fraud on clients consumption (Boosting Trees) done.
-  - Unsupervised Machine Learning approach to detect fraud on clients consumption (DBScan clustering).
+  - Unsupervised Machine Learning approach to detect fraud on clients consumption (DBScan clustering) done.
   - Unsupervised Deep Learning approach to detect fraud on clients card transactions (Autoencoders) done.
 
 ### Sales prediction:
