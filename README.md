@@ -3,7 +3,7 @@
 The goal of this repository is to create jupyter notebooks of user cases of business problems. It contains:
 
 ### Consumption prediction:
-  - Time series Machine Learning approach to predict future water consumption (Boosing Trees)
+  - Time series Machine Learning approach to predict future water consumption (Boosting Trees)
 
 ### Customers Segmentation:
   - Unsupervised Machine Learning approach to perform clients segmentation (Hierarquical clustering).
