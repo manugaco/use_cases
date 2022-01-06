@@ -1,4 +1,4 @@
-# User business cases:
+# Use business cases:
 
 The goal of this repository is to create jupyter notebooks with toy examples of some of the use cases of the business problems I have worked in my data science career. It contains:
 
