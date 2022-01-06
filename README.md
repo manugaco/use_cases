@@ -1,6 +1,6 @@
 # User business cases:
 
-The goal of this repository is to create jupyter notebooks of user cases of business problems. It contains:
+The goal of this repository is to create jupyter notebooks of use cases of business problems. It contains:
 
 ### Consumption prediction:
   - Time series Machine Learning approach to predict future water consumption (Boosting Trees)
