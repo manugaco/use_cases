@@ -27,8 +27,8 @@ The goal of this repository is to create jupyter notebooks of use cases of busin
   - To be completed...
 
 ### Sales prediction:
-  - Time series statistical learning approach to predict future sales (ARIMA).
-  - Time series deep learning approach to predict future sales (Prophet).
+  - Time series Statistical Learning approach to predict future sales (ARIMA).
+  - Time series Machine Learning approach to predict future sales (Prophet).
 
 ### Sentiment Analysis:
   - NLP Supervised Statistical Learning approach to classify tweets sentiment (Naïve Bayes).
