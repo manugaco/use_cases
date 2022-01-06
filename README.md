@@ -16,12 +16,12 @@ The goal of this repository is to create jupyter notebooks of use cases of busin
 
 ### Customers Segmentation:
   - Unsupervised Machine Learning approach to perform clients segmentation (Hierarquical clustering).
-  - Unsupervised Machine Learning approach to perform (RFM) clients segmentation (k-means clustering) done.
+  - Unsupervised Machine Learning approach to perform (RFM) clients segmentation (k-means clustering) **DONE**.
 
 ### Fraud Detection:
-  - Supervised Machine Learning approach to detect fraud on clients consumption (Boosting Trees) done.
-  - Unsupervised Machine Learning approach to detect fraud on clients consumption (DBScan Clustering) done.
-  - Unsupervised Deep Learning approach to detect fraud on clients card transactions (Autoencoders) done.
+  - Supervised Machine Learning approach to detect fraud on clients consumption (Boosting Trees) **DONE**.
+  - Unsupervised Machine Learning approach to detect fraud on clients consumption (DBScan Clustering) **DONE**.
+  - Unsupervised Deep Learning approach to detect fraud on clients card transactions (Autoencoders) **DONE**.
 
 ### Pricing:
   - To be completed...
