@@ -7,7 +7,7 @@ The goal of this repository is to create jupyter notebooks with toy examples of 
   - Time series Machine Learning approach to predict future water consumption (Prophet).
   - Time series Deep Learning approach to predict future water consumption (LSTM).
 
-### Customers Churn Rate Prediction:
+### Customers Churn Prediction:
   - Supervised Statistical Learning approach to predict the probability of churn of each client (Logistic regression).
   - Supervised Machine Learning approach to predict the probability of churn of each client (Boosting Trees).
 
