@@ -1,6 +1,6 @@
 # User business cases:
 
-The goal of this repository is to create jupyter notebooks of use cases of business problems. It contains:
+The goal of this repository is to create jupyter notebooks with toy examples of some of the use cases of the business problems I have worked in my data science career. It contains:
 
 ### Consumption prediction:
   - Time series Statistical Learning approach to predict future water consumption (ARIMA).
@@ -16,12 +16,12 @@ The goal of this repository is to create jupyter notebooks of use cases of busin
 
 ### Customers Segmentation:
   - Unsupervised Machine Learning approach to perform clients segmentation (Hierarquical clustering).
-  - Unsupervised Machine Learning approach to perform (RFM) clients segmentation (k-means clustering) **DONE**.
+  -- **DONE** -- Unsupervised Machine Learning approach to perform (RFM) clients segmentation (k-means clustering).
 
 ### Fraud Detection:
-  - Supervised Machine Learning approach to detect fraud on clients consumption (Boosting Trees) **DONE**.
-  - Unsupervised Machine Learning approach to detect fraud on clients consumption (DBScan Clustering) **DONE**.
-  - Unsupervised Deep Learning approach to detect fraud on clients card transactions (Autoencoders) **DONE**.
+  -- **DONE** -- Supervised Machine Learning approach to detect fraud on clients consumption (Boosting Trees).
+  -- **DONE** -- Unsupervised Machine Learning approach to detect fraud on clients consumption (DBScan Clustering).
+  -- **DONE** -- Unsupervised Deep Learning approach to detect fraud on clients card transactions (Autoencoders).
 
 ### Pricing:
   - To be completed...
