@@ -11,7 +11,7 @@ The goal of this repository is to create jupyter notebooks with toy examples of 
 
 ### Customers Churn Prediction:
   - -- **DONE** -- Supervised Statistical Learning approach to predict the probability of churn of each client (Logistic regression).
-  - Supervised Machine Learning approach to predict the probability of churn of each client (Boosting Trees).
+  - -- **DONE** -- Supervised Machine Learning approach to predict the probability of churn of each client (Boosting Trees).
 
 ### Customers Lifetime Value Prediction:
   - Statistical Learning approach to measure the averaged profit of a given customer (BG/NBD Gamma-Gamma).
