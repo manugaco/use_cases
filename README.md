@@ -26,7 +26,7 @@ The goal of this repository is to create jupyter notebooks with toy examples of 
   - -- **DONE** -- Unsupervised Deep Learning approach to detect fraud on clients card transactions (Autoencoders).
 
 ### Pricing:
-  - To be completed...
+  - In process...
 
 ### Sales prediction:
   - Time series Statistical Learning approach to predict future sales (ARIMA).
