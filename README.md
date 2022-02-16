@@ -36,4 +36,4 @@ The goal of this repository is to create jupyter notebooks with toy examples of 
   - NLP Supervised Statistical Learning approach to classify tweets sentiment (Naïve Bayes).
 
 ### Topic detection:
-  - NLP Unsupervised Statistical Learning approach to detect topics in text (Latent Dirichlet Allocation).
+  - NLP Unsupervised Statistical Learning approach to detect topics in a set of documents (Latent Dirichlet Allocation).
